@@ -21,6 +21,9 @@ npm install
 npm run start
 ```
 
+## Contributing
+[Check here](https://github.com/manhuyhong/simple-toolbox/issues/1)
+
 ## Author
 
 👤 **Man Hong Huy**
